@@ -8,7 +8,7 @@ ex.add() subtract() muntiply() divide() */
 //     echo"Happy Birthday {$first_name}";
 // }
 // happy_birthday("BOII");
-    function is_even($number){
+    function is_even(int $number){
         if ($number %2==0){
             echo "The number is even";
         }
