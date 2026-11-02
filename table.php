@@ -12,7 +12,7 @@ try{
 echo "User is now regestered";
 }
 catch(mysqli_sql_exception){
-    echo "Could not register useer";
+    echo "Could not register user";
 }
 
 ?>
